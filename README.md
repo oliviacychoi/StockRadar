@@ -1,10 +1,14 @@
-# StockRadar - 12 Hour Challenge Project
+# StockRadar
 Monitor your inventory like a pro. Scan, sort, and search for items seamlessly, ensuring you're always on top of your stock levels.  
+  
+I was inspired to create this app when I saw my aunt painstakingly writing down every food item she bought so that she could keep track of her purchases and manage her household better. It moved me to find a way to ease her burden and simplify the process through automation, turning a tedious task into something effortless.  
+  
 [StockRadar App w/ AppSheet installed](https://www.appsheet.com/newshortcut/7dce5199-ed99-47db-9353-a8b54df07ea6)  
 [StockRadar Web](https://www.appsheet.com/start/7dce5199-ed99-47db-9353-a8b54df07ea6)  
 
-## Description
-Built within 12 hours as part of a challenge, this AppSheet project demonstrates the power of rapid development combined with efficient design for practical solutions. It also showcases the use of AppSheet, Google Sheets, Google Apps Script, and custom JavaScript functions for handling barcode data and API integration.   
+## Description 
+Built within 12 hours as part of a challenge, this AppSheet project demonstrates the power of rapid development combined with efficient design for practical solutions. It also showcases the use of AppSheet, Google Sheets, Google Apps Script, and custom JavaScript functions for handling barcode data and API integration.  
+<br/>
 <img src="https://drive.usercontent.google.com/download?id=173kF_TJFGS4C2qukSK3LyrSUtPnA7oI7" width=20% height=10%>
 <img src="https://drive.usercontent.google.com/download?id=14cvRaQUoa6k3SGnWvM9JrITA32dOUOmf" width=20% height=10%>
 <img src="https://drive.usercontent.google.com/download?id=1P6M4UASfSZnxdZFsb8sLYcxvDiUJyUvQ" width=20% height=10%>
@@ -103,7 +107,8 @@ This project was created as a personal challenge to develop a fully functional i
 
 - Add support for additional APIs to expand inventory data sourcing.
 
-[See Google Sheet Database](https://docs.google.com/spreadsheets/d/1Tix03M4JlIOhAHfN2hTCY3ugZkL-HjIyCae3hJqKO1Y/edit?usp=sharing)  
-[See Apps Script](https://docs.google.com/spreadsheets/d/1Tix03M4JlIOhAHfN2hTCY3ugZkL-HjIyCae3hJqKO1Y/edit?usp=sharing)
+## Related Files
+[StockRadar Sheets Database](https://docs.google.com/spreadsheets/d/1Tix03M4JlIOhAHfN2hTCY3ugZkL-HjIyCae3hJqKO1Y/edit?usp=sharing)  
+[StockRadar Apps Script](https://docs.google.com/spreadsheets/d/1Tix03M4JlIOhAHfN2hTCY3ugZkL-HjIyCae3hJqKO1Y/edit?usp=sharing)
 
 
