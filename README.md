@@ -1,4 +1,4 @@
-# StockRadar
+# StockRadar - 12 Hour Challenge Project
 Monitor your inventory like a pro. Scan, sort, and search for items seamlessly, ensuring you're always on top of your stock levels.  
 [StockRadar App w/ AppSheet installed](https://www.appsheet.com/newshortcut/7dce5199-ed99-47db-9353-a8b54df07ea6)  
 [StockRadar Web](https://www.appsheet.com/start/7dce5199-ed99-47db-9353-a8b54df07ea6)  
