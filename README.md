@@ -37,7 +37,8 @@ Built within 12 hours as part of a challenge, this AppSheet project demonstrates
 ### API Integration and JSON Handling
 
 - Use Google Apps Script to pull data from APIs and process JSON files.
-
+  
+  
 ## 12-Hour Challenge
 
 This project was created as a personal challenge to develop a fully functional inventory management app within 12 hours. Here's what was accomplished during this time:
@@ -61,8 +62,8 @@ This project was created as a personal challenge to develop a fully functional i
 - Conducted rigorous testing to ensure all functionalities work seamlessly.
 
 - Fixed minor bugs and optimized workflows for better performance.  
-
-
+  
+  
 ## How to Use
 
 ### Access the App
@@ -105,10 +106,14 @@ This project was created as a personal challenge to develop a fully functional i
 
 ### Enhanced API Capabilities
 
-- Add support for additional APIs to expand inventory data sourcing.
-
+- Add support for additional APIs to expand inventory data sourcing.  
+  
+  
 ## Related Files
 [StockRadar Sheets Database](https://docs.google.com/spreadsheets/d/1Tix03M4JlIOhAHfN2hTCY3ugZkL-HjIyCae3hJqKO1Y/edit?usp=sharing)  
 [StockRadar Apps Script](https://docs.google.com/spreadsheets/d/1Tix03M4JlIOhAHfN2hTCY3ugZkL-HjIyCae3hJqKO1Y/edit?usp=sharing)
+  
+  
+Thank you for your time!
 
 
